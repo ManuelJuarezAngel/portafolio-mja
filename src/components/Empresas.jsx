@@ -8,19 +8,19 @@ export default function Empresas() {
                 </div>
                 <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-5">
                     <div className="rounded bg-white/10 backdrop-blur-md border border-white/30 shadow-lg flex justify-center items-center">
-                        <img src="@/assets/KFC-logo.png" className="max-w-50" alt="marca" />
+                        <img src="/img/KFC-logo.png" className="max-w-50" alt="marca" />
                     </div>
                     <div className="rounded bg-white/10 backdrop-blur-md border border-white/30 shadow-lg flex justify-center items-center">
-                        <img src="@/assets/kk.png" className="max-w-50" alt="marca" />
+                        <img src="/img/kk.png" className="max-w-50" alt="marca" />
                     </div>
                     <div className="rounded bg-white/10 backdrop-blur-md border border-white/30 shadow-lg flex justify-center items-center">
-                        <img src="@/assets/alsea.png" className="max-w-50" alt="marca" />
+                        <img src="/img/alsea.png" className="max-w-50" alt="marca" />
                     </div>
                     <div className="rounded bg-white/10 backdrop-blur-md border border-white/30 shadow-lg flex justify-center items-center">
-                        <img src="@/assets/vdc.png" className="max-w-50" alt="marca" />
+                        <img src="/img/vdc.png" className="max-w-50" alt="marca" />
                     </div>
                     <div className="rounded bg-white/10 backdrop-blur-md border border-white/30 shadow-lg flex justify-center items-center">
-                        <img src="@/assets/unilever.png" className="max-w-50" alt="marca" />
+                        <img src="/img/unilever.png" className="max-w-50" alt="marca" />
                     </div>
                 </div>
             </div>

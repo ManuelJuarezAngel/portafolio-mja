@@ -18,7 +18,7 @@ export default function Hero() {
             <div className="hero-content w-[97%] lg:w-[90%] max-w-7xl transition-all duration-300 ease-in-out flex justify-between items-center py-2 px-6 rounded bg-white/10 backdrop-blur-md border border-white/30 shadow-lg h-auto md:h-[80%] z-40">
                 <div className="flex justify-center items-center flex-col-reverse md:flex-row gap-5">
                     <img
-                        src="@/assets/1.png"
+                        src="/img/1.png"
                         alt="img"
                         className="max-w-70 lg:max-w-md" />
                     <div className="mt-20 md:mt-0 flex justify-center items-center flex-col md:items-start">
