@@ -21,22 +21,22 @@ export default function Proyectos() {
                 <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6 w-full lg:w-[70%] place-items-center">
                     <div className="h-100 w-88 md:w-50 rounded shadow-lg cursor-pointer">
                         <a href="">
-                            <img src="src/assets/ball.webp" className="h-full w-full object-cover" alt="img" />
+                            <img src="@/assets/ball.webp" className="h-full w-full object-cover" alt="img" />
                         </a>
                     </div>
                     <div className="h-100 w-88 md:w-50 rounded shadow-lg cursor-pointer">
                         <a href="">
-                            <img src="src/assets/cazuelas1.webp" className="h-full w-full object-cover" alt="img" />
+                            <img src="@/assets/cazuelas1.webp" className="h-full w-full object-cover" alt="img" />
                         </a>
                     </div>
                     <div className="h-100 w-88 md:w-50 rounded shadow-lg cursor-pointer">
                         <a href="">
-                            <img src="src/assets/invitacion.png" className="h-full w-full object-cover" alt="img" />
+                            <img src="@/assets/invitacion.png" className="h-full w-full object-cover" alt="img" />
                         </a>
                     </div>
                     <div className="h-100 w-88 md:w-50 rounded shadow-lg cursor-pointer">
                         <a href="">
-                            <img src="src/assets/ruthless.png" className="h-full w-full object-cover" alt="img" />
+                            <img src="@/assets/ruthless.png" className="h-full w-full object-cover" alt="img" />
                         </a>
                     </div>
                 </div>

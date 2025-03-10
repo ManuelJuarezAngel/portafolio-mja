@@ -23,7 +23,7 @@ export default function Servicios() {
                     <div className="card rounded bg-white/10 backdrop-blur-md border border-white/30 shadow-lg">
                         <div className="card-body">
                             <div className="flex justify-center items-center">
-                                <img src="src/assets/pagina-de-inicio.png" className="w-36" alt="icon" />
+                                <img src="@/assets/pagina-de-inicio.png" className="w-36" alt="icon" />
                             </div>
                             <br />
                             <h3 className="card-title border-b border-gray-300 pb-2">Sitios Web</h3>
@@ -34,7 +34,7 @@ export default function Servicios() {
                     <div className="card rounded bg-white/10 backdrop-blur-md border border-white/30 shadow-lg">
                         <div className="card-body">
                             <div className="flex justify-center items-center">
-                                <img src="src/assets/codigo.png" className="w-36" alt="icon" />
+                                <img src="@/assets/codigo.png" className="w-36" alt="icon" />
                             </div>
                             <br />
                             <h3 className="card-title border-b border-gray-300 pb-2">Aplicaciones Web</h3>
@@ -45,7 +45,7 @@ export default function Servicios() {
                     <div className="card rounded bg-white/20 backdrop-blur-md border border-white/30 shadow-lg">
                         <div className="card-body">
                             <div className="flex justify-center items-center">
-                                <img src="src/assets/seo.png" className="w-36" alt="icon" />
+                                <img src="@/assets/seo.png" className="w-36" alt="icon" />
                             </div>
                             <br />
                             <h3 className="card-title border-b border-gray-300 pb-2">Posicionamiento SEO</h3>
@@ -56,7 +56,7 @@ export default function Servicios() {
                     <div className="card rounded bg-white/20 backdrop-blur-md border border-white/30 shadow-lg">
                         <div className="card-body">
                             <div className="flex justify-center items-center">
-                                <img src="src/assets/apoyo-tecnico.png" className="w-36" alt="icon" />
+                                <img src="@/assets/apoyo-tecnico.png" className="w-36" alt="icon" />
                             </div>
                             <br />
                             <h3 className="card-title border-b border-gray-300 pb-2">Mantenimiento y Soporte Web</h3>
